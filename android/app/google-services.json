@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772838199817",
+    "project_id": "nimi-hub",
+    "storage_bucket": "nimi-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772838199817:android:a8c17fd1a48d0c084a1ed8",
+        "android_client_info": {
+          "package_name": "com.example.nimihub_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772838199817-fd5ro38d8i1nnpia26099iiqjkk4qbru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcLEavfA1hO3Oehq-W9d1fF4whN3h4xK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772838199817-fd5ro38d8i1nnpia26099iiqjkk4qbru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
